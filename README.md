@@ -76,7 +76,7 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 ## ⏰ **Productive Hours**
 > "Visualize my most productive coding hours."
 
-![Productive Hours](https://github.com/jangheyji/productive-box/blob/main/profile-summary-card-output/default/4-productive-time.svg)
+![Productive Hours](https://github.com/jangheyji/productive-box/blob/main/profile-summary-card-output/dracula/4-productive-time.svg)
 
 ---
 
