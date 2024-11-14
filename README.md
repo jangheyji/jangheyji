@@ -11,7 +11,6 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 ---
 
 ## 📌 **Pinned Repositories**
-[Selected Repositories displayed directly in the GitHub profile settings]
 
 ---
 
