@@ -10,10 +10,6 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 
 ---
 
-## 📌 **Pinned Repositories**
-
----
-
 ## 📂 **Projects**
 | **Project** | 📖 **Description** |
 |-------------|--------------------|
