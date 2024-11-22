@@ -82,7 +82,7 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 ## 🕰️ **Productive Hours**
 > "Visualize my most productive coding hours."
 
-![Productive Hours](https://gist.githubusercontent.com/jangheyji/59bfe0c87f6371503bd710d2cd5275d9/raw/productive-time.md)
+![Productive Hours](https://gist.github.com/jangheyji/59bfe0c87f6371503bd710d2cd5275d9#file-i-m-an-early)
 
 ---
 
