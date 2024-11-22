@@ -14,6 +14,7 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 | **Project** | 📖 **Description** |
 |-------------|--------------------|
 | 🧅 **Team Project: 내 손안의 양파 : 양육 파트너** | Developed an AI-powered parenting solution platform that provides professional childcare knowledge in an accessible format through chat-based interactions. [GitHub Repository](https://github.com/Yangpa-NurturingPartner) |
+| 🧅 **Team Project: Globla Etiquette Guide** | A mini-project that recognizes finger gestures and provides information on gesture etiquette for different countries. [GitHub Repository](https://github.com/AI-mazing/finger-swearing-by-country) |
 
 ---
 
