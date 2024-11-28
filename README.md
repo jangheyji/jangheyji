@@ -49,15 +49,15 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/JSP-3776AB?style=for-the-badge" alt="JSP"/>
-<img src="https://img.shields.io/badge/STS4-42B983?style=for-the-badge&logo=Spring&logoColor=white" alt="STS4"/>
 </div>
 
 ### 🛠 Tools
 <div>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/>
+<img src="https://img.shields.io/badge/STS4-42B983?style=for-the-badge&logo=Spring&logoColor=white" alt="STS4"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
-<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE"/>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </div>
 
 ---
