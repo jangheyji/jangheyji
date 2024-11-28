@@ -15,6 +15,7 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 |-------------|--------------------|
 | 🧅 **Team Project: 내 손안의 양파 : 양육 파트너** | Developed an AI-powered parenting solution platform that provides professional childcare knowledge in an accessible format through chat-based interactions. [GitHub Repository](https://github.com/Yangpa-NurturingPartner) |
 | 🤞 **Team Project: Global Etiquette Guide** | A mini-project that recognizes finger gestures and provides information on gesture etiquette for different countries. [GitHub Repository](https://github.com/AI-mazing/finger-swearing-by-country) |
+| 🍀 **Team Project: CloverWebtoon** | This project benchmarked Naver Webtoon as a webtoon homepage project and tried to utilize the stacks learned during the training period. [GitHub Repository](https://github.com/jangheyji/CloverWebtoon) |
 
 ---
 
@@ -49,7 +50,7 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
   <img src="https://img.shields.io/badge/JSP-3776AB?style=for-the-badge" alt="JSP"/>
 </div>
 
-### 🛠 Tools
+### 🔨 Tools
 <div>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/> 
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
