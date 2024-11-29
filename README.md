@@ -10,22 +10,6 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 
 ---
 
-## 📂 **Projects**
-| **Project** | 📖 **Description** |
-|-------------|--------------------|
-| 🧅 **Team Project: 내 손안의 양파 : 양육 파트너** | Developed an AI-powered parenting solution platform that provides professional childcare knowledge in an accessible format through chat-based interactions. [GitHub Repository](https://github.com/Yangpa-NurturingPartner) |
-| 🤞 **Team Project: Global Etiquette Guide** | A mini-project that recognizes finger gestures and provides information on gesture etiquette for different countries. [GitHub Repository](https://github.com/AI-mazing/finger-swearing-by-country) |
-| 🍀 **Team Project: CloverWebtoon** | This project benchmarked Naver Webtoon as a webtoon homepage project and tried to utilize the stacks learned during the training period. [GitHub Repository](https://github.com/jangheyji/CloverWebtoon) |
-
----
-
-## 📔 **Learning Log**
-| **Topic** | 📖 **Description** |
-|-----------|--------------------|
-| 📚 **Study Blog** | Documenting my learning journey on [Naver Blog](https://blog.naver.com/jangheyji1), categorized into topics like Web Development, AI, and Database. |
-
----
-
 ## 🛠 **Skills & Tools**
 > "A collection of badges showcasing my skills and preferred development tools."
 
@@ -58,7 +42,27 @@ Welcome to my GitHub profile! Here, I share my journey in coding, team contribut
 <img src="https://img.shields.io/badge/STS4-42B983?style=for-the-badge&logo=Spring&logoColor=white" alt="STS4"/>
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
+
+
+---
+
+## 📂 **Projects**
+| **Project** | 📖 **Description** |
+|-------------|--------------------|
+| 🧅 **Team Project: 내 손안의 양파 : 양육 파트너** | Developed an AI-powered parenting solution platform that provides professional childcare knowledge in an accessible format through chat-based interactions. [GitHub Repository](https://github.com/Yangpa-NurturingPartner) |
+| 🤞 **Team Project: Global Etiquette Guide** | A mini-project that recognizes finger gestures and provides information on gesture etiquette for different countries. [GitHub Repository](https://github.com/AI-mazing/finger-swearing-by-country) |
+| 🍀 **Team Project: CloverWebtoon** | This project benchmarked Naver Webtoon as a webtoon homepage project and tried to utilize the stacks learned during the training period. [GitHub Repository](https://github.com/jangheyji/CloverWebtoon) |
+
+---
+
+## 📔 **Learning Log**
+| **Topic** | 📖 **Description** |
+|-----------|--------------------|
+| 📚 **Study Blog** | Documenting my learning journey on [Naver Blog](https://blog.naver.com/jangheyji1), categorized into topics like Web Development, AI, and Database. |
 
 ---
 
